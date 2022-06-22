@@ -1,0 +1,18 @@
+body
+{
+  background:cyan;
+  background: url(https://cdn.wallpapersafari.com/40/64/A4Rjn0.jpg) fixed center;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+.menu {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  margin-top: 0px;
+  top: 0px;
+  z-index: 10;
+
+}
